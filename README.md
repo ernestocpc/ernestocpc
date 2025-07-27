@@ -8,6 +8,8 @@
 
 - Always looking for new technologies to learn and new ways to improve!
 
+- My personal portfolio: https://ernesto-perez-dev.vercel.app/
+
 <h2>Contact me!</h2>
 
 <a href="https://www.linkedin.com/in/ernesto-carlos-perez-covo-2b683a294/" target="_blank">
